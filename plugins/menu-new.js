@@ -43,7 +43,7 @@ cmd({
 ┃◈╰───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
-
+    }
         };
 
         // Function to send menu image with timeout
